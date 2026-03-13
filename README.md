@@ -164,7 +164,7 @@ You can also open an [Issue](https://github.com/nveyret/awesome-claude-skills-de
 
 ## 📬 Contact
 
-If you want to contact me, you can reach me on [X](https://x.com/nveyret).
+If you want to contact me, you can reach me on [LinkedIn](www.linkedin.com/in/nathanveyret).
 
 ---
 
