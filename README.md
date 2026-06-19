@@ -148,6 +148,8 @@
 
 - **[devmarketing-skills](https://github.com/nveyret/awesome-claude-skills-devmarketing)** — 33 skills for developer marketing: HN strategy, technical tutorials, docs-as-marketing, Reddit engagement, developer onboarding, newsletters, and SEO for devtools.
 
+- **[NotFair](https://github.com/nowork-studio/NotFair)** — Open-source Claude Code skills for SEO, Google Ads, and Meta Ads (~2.9k stars, MIT). Covers [SEO](https://github.com/nowork-studio/NotFair/tree/main/seo) (site analysis, keyword research, meta tags, schema markup, GEO optimization, content writing), [Google Ads](https://github.com/nowork-studio/NotFair/tree/main/google-ads) (audits, wasted-spend detection, keyword and bid management), and [Meta Ads](https://github.com/nowork-studio/NotFair/tree/main/meta-ads) (ROAS, creative fatigue, audience overlap). Connects to live data via Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP.
+
 ---
 
 ## 🤝 Contribution
