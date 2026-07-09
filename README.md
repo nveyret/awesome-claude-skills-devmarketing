@@ -128,6 +128,7 @@
 
 ---
 
+- **[linkedin-skills](https://github.com/Linked-API/linkedin-skills/tree/main/linkedin)** — Fetch LinkedIn profiles, search people and companies, send messages, manage connections, create posts, react, comment, and run custom LinkedIn workflows from Claude Code, Codex, Cursor, and Windsurf.
 ## 🤝 Product & PM Skills
 
 - **[pm-skills](https://github.com/nveyret/awesome-claude-skills-devmarketing)** — 24 product management skills across the Triple Diamond lifecycle with agentskills.io spec compliance, templates, and MCP server support. Bridges PM and GTM for launch planning.
