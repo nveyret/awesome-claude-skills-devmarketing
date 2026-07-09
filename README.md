@@ -128,6 +128,7 @@
 
 ---
 
+- **[linkedin-growth](https://github.com/Linked-API/linkedin-skills/tree/main/linkedin-growth)** — Import leads from LinkedIn or Sales Navigator searches, qualify them against an ideal-customer profile, schedule safe connection invites across accounts, track acceptances, and withdraw stale pending requests.
 ## 🤝 Product & PM Skills
 
 - **[pm-skills](https://github.com/nveyret/awesome-claude-skills-devmarketing)** — 24 product management skills across the Triple Diamond lifecycle with agentskills.io spec compliance, templates, and MCP server support. Bridges PM and GTM for launch planning.
