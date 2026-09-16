@@ -103,6 +103,7 @@
 - **[pdf](https://github.com/nveyret/awesome-claude-skills-devmarketing)** — Extracts text, tables, metadata; merges and annotates PDFs. Use for competitor teardowns, analyst reports, and building content libraries from existing assets.
 
 - **[claude-epub-skill](https://github.com/nveyret/awesome-claude-skills-devmarketing)** — Converts markdown documents, research reports, and chat summaries into downloadable epub files for Kindle. Good for distributing in-depth developer guides.
+- **[OrkasVideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio)** — Local-first CLI, MCP server, and coding-agent skills for composing, editing, and assembling explainer or demo videos from editable plan.json timelines.
 
 ---
 
