@@ -78,6 +78,8 @@
 
 - **[brainstorming](https://github.com/nveyret/awesome-claude-skills-devmarketing)** — Transforms rough ideas into fully-formed designs through structured questioning and exploration of alternatives. Use for campaign concepting, positioning workshops, and messaging sprints.
 
+- **[SPECTER](https://github.com/YannisKiefer/harvey-specter)** — Prepares buyer-objection replies and difficult sales conversations using established facts, clear boundaries, and relationship-aware tone.
+
 ---
 
 ## 📊 Pipeline & Revenue Operations
