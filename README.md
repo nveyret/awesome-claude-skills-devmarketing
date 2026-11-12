@@ -108,6 +108,8 @@
 
 ## 🔬 Market Research & Intelligence
 
+- **[datacircle](https://datacircle.dev/SKILL.md)** — Find the best GTM APIs. We benchmark all the GTM APIs and we put the results on our website: https://datacircle.dev
+
 - **[deep-research](https://github.com/nveyret/awesome-claude-skills-devmarketing)** — Executes autonomous multi-step research using Gemini Deep Research Agent for market analysis, competitive landscaping, and literature reviews.
 
 - **[manus](https://github.com/nveyret/awesome-claude-skills-devmarketing)** — Delegates complex tasks to Manus AI agent for deep research, market analysis, product comparisons, stock analysis, and comprehensive report generation with parallel processing.
